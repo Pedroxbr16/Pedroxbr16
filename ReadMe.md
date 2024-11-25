@@ -1,5 +1,11 @@
 # 💫 About Me:
-Desenvolvedor Júnior buscando conhecimento e fazendo alguns projetos por ai
+Hi there! 👋
+
+I'm Pedro, a fullstack developer with a passion for creating  web applications. My main expertise lies in React for front-end development and Node for back-end, but I love exploring new technologies and tools that help me grow as a programmer.
+
+I have a diverse experience ranging from building user-friendly web interfaces to developing robust APIs. Currently, I'm focusing on projects that involve integrating modern systems and optimizing data workflows.
+
+Feel free to check out my projects, and if you'd like to collaborate or chat, don't hesitate to reach out
 
 
 # 💻 Tech Stack:
